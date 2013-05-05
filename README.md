@@ -10,6 +10,7 @@ Die Aufgabe habe ich aus dem Kapitel 15.5 des Buches "Das Java-Praktikum" 2. Auf
 
 Was sind fröhliche Zahlen?
 Man prüft dies wie folgt:
+	
 	1. Man summiert das quadrat der einzelnen Ziffern der Zahl ist das Ergebnis 1, so handelt es
 	   sich um eine fröhliche Zahl.
 	

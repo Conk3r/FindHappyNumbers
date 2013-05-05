@@ -45,20 +45,20 @@ UProgs enthält die Unterprogramme mit denen ich arbeite, HappyTest enthält die
 
 	2.) Stellen
 
-	Man übergibt einen Integer und erhält als Aufgabe die Anzahl der Ziffern aus der die Zahl
+	Man übergibt einen Integer und erhält als Ausgabe die Anzahl der Ziffern aus der die Zahl
 	besteht.
 
 	3.) Quersumme
 
-	Man übergibt einen Integer, dessen einzelne Ziffern man quadriert und audsummiert und
+	Man übergibt einen Integer, dessen einzelne Ziffern man quadriert und aufsummiert und
 	anschließend an das main Programm zurück gibt.
 
 	4.) TestHappy
 
 	Erhält einen Integer und Überprüft ob dieser dem Kriterium einer fröhlichen Zahl entspricht.
 
-	5.) Das Programm gibtZiffern. . .
+	5.) Das Programm "gibtZiffernEinerZhl..."
 
-	Ist beim Codieren entstanden. Findet die einzelnen Ziffern einer Zahl und speicherte diese in
-	das an ihm übergebene Array
+	Ist als nebenprodukt beim codieren entstanden, wird im Programm aber nicht genutzt. Findet 
+	die einzelnen Ziffern einer Zahl und speicherte diese in das an ihm übergebene Array
 	
